@@ -1,0 +1,13 @@
+{
+    "info": {
+                "location": "Ventura, CA, USA",
+                },
+        "about": {
+            "me": "Huth S0lo's Stake Pool",
+            "server": "Single-pool Stake Pool Operator aiming for Decentralization",
+        },
+    },
+    "my-pool-ids": {
+        "0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9",
+    }
+}
