@@ -2,6 +2,7 @@
 "name": "Huth_S0los_Stake_Pool",
 "description": "Huth S0lo's Stake Pool Server.  Maintained by a Network Engineer from Southern California",
 "ticker": "HS0LO",
-"homepage": "https://huths0lostakepool.com"
+"homepage": "https://huths0lostakepool.com",
 "extended": "https://raw.githubusercontent.com/huthmakerj/cardano/main/extendedMetaData.json"
 }
+
