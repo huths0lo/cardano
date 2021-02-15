@@ -1,7 +1,7 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "",
+        "url_png_icon_64x64": "http://huths0lostakepool.com/deathstarsmall.PNG",
         "url_png_logo": "",
         "location": "Los Angeles, USA",
         "social": {
