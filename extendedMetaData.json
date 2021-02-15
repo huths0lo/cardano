@@ -1,12 +1,57 @@
 {
-	"info": {
-		"location": "Ventura, CA, USA"
-	},
-	"about": {
-		"me": "Huth S0lo's Stake Pool",
-		"server": "GEO-Redundant Stake Pool"
-	},
-	"my-pool-ids": {
-		"0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
-	}
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Los Angeles, USA",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "...",
+            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "company": "..."
+        },
+        "rss": "http(s) url to valid RSS feed"
+    },
+    "my-pool-ids": {
+        "0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
+    },
+    "when-satured-then-recommend": {
+        "0": "402347bf8fba7c29392680eb4100cf8ea0e7a7a1be64cd7fb01a9d97",
+        "1": "8fdf253d44c9817d7dfd72f392a234aaab546d22cbcbc5984f84fc1f"
+    },
+    "telegram-admin-handle": {
+        "0": "Huth_S0lo"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "Relay 1 Ventura",
+                "type": "relay",
+                "key": "86e2f55ed6aeb648dc9477c1395a8534"
+            },
+            "1": {
+                "name": "Relay 2 Ventura",
+                "type": "relay",
+                "key": "78fb52e93270ad06b1729546137419ae"
+            },
+            "2": {
+                "name": "Relay 3 Ohio",
+                "type": "relay",
+                "key": "e57c7e5b8adb6e6a84b0082747e3a39e"
+            },
+            "3": {
+                "name": "Relay 4 Oregon",
+                "type": "relay",
+                "key": "ea1184f56b5551e02dc40ceb7ab1e52a"
+            }
+        }
+    }
 }
