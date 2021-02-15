@@ -14,9 +14,9 @@
             "github_handle": ""
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "An independant stakepool, helping keep Cardano Decentralized.",
+            "server": "3 Relays (soon to be 4).  Georedundant, Secure, High Speed, The works.",
+            "company": "Operated and maintained by a CCIE Level Network Engineer."
         },
         "rss": "http(s) url to valid RSS feed"
     },
