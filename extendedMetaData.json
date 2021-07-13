@@ -1,9 +1,9 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "http://huths0lostakepool.com/deathstarsmall.PNG",
-        "url_png_logo": "http://huths0lostakepool.com/deathstar.PNG",
-        "location": "Sunny Southern California",
+        "url_png_icon_64x64": "http://huths0lostakepool.com/wolverinesmall.png",
+        "url_png_logo": "http://huths0lostakepool.com/wolverine.png",
+        "location": "So Cal",
         "social": {
             "twitter_handle": "",
             "telegram_handle": "@Huth_S0lo",
@@ -14,9 +14,7 @@
             "github_handle": ""
         },
         "about": {
-            "me": "An independant stakepool, helping keep Cardano Decentralized.",
-            "server": "4 Relays.  Georedundant, Secure, High Speed, The works.",
-            "company": "Operated and maintained by a CCIE Level Network Engineer."
+            "me": "One of the SPO's behind Cardano Budz"
         },
         "rss": "http(s) url to valid RSS feed"
     },
@@ -41,16 +39,6 @@
                 "name": "Relay 2 Ventura",
                 "type": "relay",
                 "key": "78fb52e93270ad06b1729546137419ae"
-            },
-            "2": {
-                "name": "Relay 3 Ohio",
-                "type": "relay",
-                "key": "e57c7e5b8adb6e6a84b0082747e3a39e"
-            },
-            "3": {
-                "name": "Relay 4 Oregon",
-                "type": "relay",
-                "key": "ea1184f56b5551e02dc40ceb7ab1e52a"
             }
         }
     }
