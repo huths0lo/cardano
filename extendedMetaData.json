@@ -1,45 +1,22 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
-    "info": {
-        "url_png_icon_64x64": "http://huths0lostakepool.com/wolverinesmall.png",
-        "url_png_logo": "http://huths0lostakepool.com/wolverine.png",
-        "location": "So Cal",
-        "social": {
-            "twitter_handle": "",
-            "telegram_handle": "@Huth_S0lo",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        },
-        "about": {
-            "me": "One of the SPO's behind Cardano Budz"
-        },
-        "rss": "http(s) url to valid RSS feed"
-    },
-    "my-pool-ids": {
-        "0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
-    },
-    "when-satured-then-recommend": {
-        "0": "0a7e78413c9a62a0e68d24d79ffb20c551c5e6514947e7dcf0879916",
-        "1": "c2b8bff5160dd75149f2cae0955698550e8cf0d390025b26a9508a3e"
-    },
-    "telegram-admin-handle": {
-        "0": "Huth_S0lo"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "Relay 1 Ventura",
-                "type": "relay",
-                "key": "86e2f55ed6aeb648dc9477c1395a8534"
-            },
-            "1": {
-                "name": "Relay 2 Ventura",
-                "type": "relay",
-                "key": "78fb52e93270ad06b1729546137419ae"
-            }
-        }
-    }
+	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+	"info": {
+		"url_png_icon_64x64": "https://cnfthub.io/shared_files/cbTHC.png",
+		"url_png_logo": "https://cnfthub.io/shared_files/cbTHC-medium.png",
+		"location": "Trichome City",
+		"social": {
+			"twitter_handle": "Cardano_Budz"
+		},
+		"about": {
+			"me": "Cardano Budz Stakepool"
+		},
+		"rss": "http(s) url to valid RSS feed"
+	},
+	"my-pool-ids": {
+		"0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
+	},
+	"when-satured-then-recommend": {
+		"0": "45956dccec3785e88f7b4a2be09b6f8e25add18fd00125a33cd96931",
+		"1": "000022b3f0b748a43239c5024c58f852c05593cd0a77a798f0bb3a14"
+	}
 }
