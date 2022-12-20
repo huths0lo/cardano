@@ -1,22 +1,11 @@
 {
-	"how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
-	"info": {
-		"url_png_icon_64x64": "https://cnfthub.io/shared_files/cbTHC.png",
-		"url_png_logo": "https://cnfthub.io/shared_files/cbTHC-medium.png",
-		"location": "Trichome City",
-		"social": {
-			"twitter_handle": "Cardano_Budz"
-		},
-		"about": {
-			"me": "Cardano Budz Stakepool"
-		},
-		"rss": "http(s) url to valid RSS feed"
-	},
-	"my-pool-ids": {
-		"0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
-	},
-	"when-satured-then-recommend": {
-		"0": "45956dccec3785e88f7b4a2be09b6f8e25add18fd00125a33cd96931",
-		"1": "000022b3f0b748a43239c5024c58f852c05593cd0a77a798f0bb3a14"
-	}
+    "info": {
+    "url_png_icon_64x64": "https://themorphium.io/dropper_bottle_small.jpg",
+    "url_png_logo": "https://themorphium.io/dropper_bottle.jpg",
+    "location": "S0lo System",
+    "social": {
+      "twitter_handle": "TheMorphium"
+  "my-pool-ids": {
+    "0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
+  }
 }
