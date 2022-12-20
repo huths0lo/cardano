@@ -1,11 +1,13 @@
 {
-    "info": {
-    "url_png_icon_64x64": "https://themorphium.io/dropper_bottle_small.jpg",
-    "url_png_logo": "https://themorphium.io/dropper_bottle.jpg",
-    "location": "S0lo System",
-    "social": {
-      "twitter_handle": "TheMorphium"
-  "my-pool-ids": {
-    "0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
-  }
+	"info": {
+		"url_png_icon_64x64": "https://themorphium.io/dropper_bottle_small.jpg",
+		"url_png_logo": "https://themorphium.io/dropper_bottle.jpg",
+		"location": "S0lo System",
+		"social": {
+			"twitter_handle": "TheMorphium"
+		},
+		"my-pool-ids": {
+			"0": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9"
+		}
+	}
 }
